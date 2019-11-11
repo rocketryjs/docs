@@ -26,5 +26,5 @@
 <!-- I installed this... -->
 <!-- How to find: `node -v` -->
 - Node.js:
-<!-- How to find: `npm list @rocketry/core` or in in package.json -->
+<!-- How to find: `npm list @rocketry/core` or in `package.json` -->
 - Rocketry:
